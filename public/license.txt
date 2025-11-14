@@ -1,0 +1,8 @@
+Model Information:
+* title:	FBX Traiblazer GT 2nd Gen
+* source:	https://sketchfab.com/3d-models/fbx-traiblazer-gt-2nd-gen-fddf3475d6ed484292b4de05a25d7ee8
+* author:	TheOnlyBadDesigner (https://sketchfab.com/TheLastBadDesigner)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
